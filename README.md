@@ -6,13 +6,13 @@ Veyrié, A. ; Noreña, A. ; Sarrazin, J.C. and Pezard, L. 2023. Biology. Informa
 
 https://www.mdpi.com/2079-7737/12/7/967
 
-@article{veyrie2023information,
-title={Information-Theoretic Approaches in EEG Correlates of Auditory Perceptual Awareness under Informational Masking},
-author={Veyri{\'e}, Alexandre and Nore{\~n}a, Arnaud and Sarrazin, Jean-Christophe and Pezard, Laurent},
-journal={Biology},
-volume={12},
-number={7},
-pages={967},
-year={2023},
-publisher={MDPI}
+@article{veyrie2023information,<br />
+title={Information-Theoretic Approaches in EEG Correlates of Auditory Perceptual Awareness under Informational Masking},<br />
+author={Veyri{\'e}, Alexandre and Nore{\~n}a, Arnaud and Sarrazin, Jean-Christophe and Pezard, Laurent},<br />
+journal={Biology},<br />
+volume={12},<br />
+number={7},<br />
+pages={967},<br />
+year={2023},<br />
+publisher={MDPI}<br />
 }
